@@ -1,0 +1,78 @@
+[
+  {
+    "key": "dataSource",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Host",
+      "placeholder": "",
+      "description": "",
+      "required": true
+    }
+  },
+  {
+    "key": "Port",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Port",
+      "placeholder": "8000",
+      "description": "",
+      "required": true
+    }
+  },
+  {
+    "key": "ServiceName",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "ServiceName",
+      "placeholder": "PROD",
+      "description": "",
+      "required": true
+    }
+  },
+  {
+    "key": "Username",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Username",
+      "placeholder": "",
+      "description": "",
+      "required": true
+    }
+  },
+  {
+    "key": "Password",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Password",
+      "type": "password",
+      "placeholder": "",
+      "description": "",
+      "required": true
+    }
+  },
+  {
+    "key": "personsQuery",
+    "type": "textarea",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Persons Query",
+      "required": true,
+      "rows": 4
+    }
+  },
+  {
+    "key": "departmentsQuery",
+    "type": "textarea",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Departments Query",
+      "required": true,
+      "rows": 4
+    }
+  }
+]
