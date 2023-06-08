@@ -1,4 +1,8 @@
 # HelloID-Conn-Prov-Source-Oracle
+<p align="center">
+  <img src="https://www.tools4ever.nl/connector-logos/oracle-logo.png">
+</p>
+<br />
 Example to connect to an Oracle database
 
 # HelloID Docs
